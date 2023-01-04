@@ -1,0 +1,100 @@
+html, body
+{background-image: url(o1.jpg);
+color: #000000;
+margin-top: 5px;
+font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+
+div#strona
+{width: 970px;
+margin: 0 auto;
+padding: 10px;
+background-color: #c8c8ff;
+}
+
+div#naglowek
+{height: 30px;
+padding: 15px;
+margin-bottom: 2px;
+background-color: #000060;
+color: #ffffff;
+text-align: center;
+font-family: Comic Sans MS;
+text-shadow: 2px 2px 8px #FF0000;
+
+}
+div#naglowek_2
+{height: 100px;
+padding: 15px;
+margin-bottom: 2px;
+background-color: #1e1e6e;
+color: #ffffff;
+}
+
+div#menu
+{width: 200px;
+float: right;
+overflow: hidden;
+padding: 10px;
+margin-left: 2px;
+background-color: #7878c8;
+}
+div#menu ul
+{list-style-type: none;
+}
+div#zawartosc
+{overflow: hidden;
+padding: 40px;
+background-color: #9696e1;
+}
+div#stopka
+{clear: both;
+padding: 10px;
+margin-top: 2px;
+background-color: #323296;
+color: #ffffff;
+height: 350px;
+}
+
+.zdjecie
+{
+    margin: 3px;
+    float: left;
+    border: solid;
+    border-color: royalblue;
+}
+.zdjecie:hover
+{
+    border-color: seagreen;
+}
+
+#blok1
+{
+    border: solid 2px;
+    width: 450px;
+    box-shadow: 5px 5px 5px red;
+    float: left;
+}
+#blok2
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:springgreen;
+    border: solid;
+    border-color:tomato;
+    font-size: 16px;
+    float: left;
+    margin-left: 10px;
+    width: 480px;
+    height: 338px;
+    box-shadow: 5px 5px 5px red;
+}
+
+div#stopka2
+{clear: both;
+padding: 10px;
+margin-top: 2px;
+background-color: #323296;
+color: #ffffff;
+height: 50px;
+}
